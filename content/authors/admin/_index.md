@@ -1,12 +1,11 @@
 ---
 title: Jiahe Chen
-role: Professor of Artificial Intelligence
+role: Undergraduate of Robotics
 bio: My research interests include Physics-informed Machine Learning,
   Explainable Machine Learning and Robotics.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Machine Learning
+  - Robotics
 social:
   - icon: envelope
     icon_pack: fas
