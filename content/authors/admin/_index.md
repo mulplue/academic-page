@@ -36,7 +36,7 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Hi! My name is Jiahe Chen(**陈 佳禾**), a junior student at Zhejiang University.
+Hi! My name is Jiahe Chen(**陈  佳 禾**), a junior student at Zhejiang University.
 
 I major in Automation@[ZJUCSE](http://cse.zju.edu.cn), minor in Advanced Honor Class of Engineering Education@[ZJUCKC](http://ckc.zju.edu.cn/ckcen/).
 
