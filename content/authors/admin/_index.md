@@ -16,9 +16,6 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/mulplue
@@ -32,7 +29,7 @@ education:
   courses:
     - course: B.Eng. in Robotics
       institution: Zhejiang University
-      year: 2008
+      year: -4
 superuser: true
 last_name: Bighetti
 highlight_name: true
