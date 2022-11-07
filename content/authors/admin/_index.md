@@ -29,7 +29,7 @@ education:
   courses:
     - course: B.Eng. in Robotics
       institution: Zhejiang University
-      year: -4
+      year: ""
 superuser: true
 last_name: Bighetti
 highlight_name: true
