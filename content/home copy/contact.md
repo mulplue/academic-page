@@ -38,10 +38,20 @@ content:
   coordinates:
     latitude: '30.1540'
     longitude: '120.0730'
+  # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  # office_hours:
+  #   - 'Monday 9:00 to :00'
+  #   - 'Wednesday 09:00 to 10:00'
+  # appointment_url: 'https://calendly.com'
   contact_links:
     - icon: <i class="fa-brands fa-linkedin"></i>
+      # icon_pack: fab
       name: mulplue
       link: 'https://twitter.com/mulplue'
+    # - icon: video
+    #   icon_pack: fas
+    #   name: Zoom Me
+    #   link: 'https://zoom.com'
 
 design:
   columns: '2'
