@@ -1,5 +1,4 @@
 ---
-<script src="https://kit.fontawesome.com/a97ee919b1.js" crossorigin="anonymous"></script>
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: experience
