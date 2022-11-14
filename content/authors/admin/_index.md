@@ -31,15 +31,13 @@ education:
       institution: Zhejiang University
       year: ""
 superuser: true
-last_name: Bighetti
+last_name: Chen
 highlight_name: true
-first_name: Alice
+first_name: Jiahe
 email: ""
 ---
-Hi! My name is Jiahe Chen(**陈  佳 禾**), a junior student at Zhejiang University.
+Hi! My name is Jiahe Chen(**陈 佳禾**), a junior student at Zhejiang University.
 
-I major in Automation@[ZJUCSE](http://cse.zju.edu.cn), minor in Advanced Honor Class of Engineering Education@[ZJUCKC](http://ckc.zju.edu.cn/ckcen/).
+I major in Automation@[ZJUCSE](http://cse.zju.edu.cn), minor in Advanced Honor Class of Engineering Education@[ZJUCKC](http://ckc.zju.edu.cn/ckcen/). My current research interests mainly lie in Physics-informed Machine Learning, Explainable Machine Learning and Robotics. 
 
-My current research interests mainly lie in Physics-informed Machine Learning, Explainable Machine Learning and Robotics. 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
